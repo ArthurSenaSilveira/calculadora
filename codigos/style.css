@@ -140,3 +140,6 @@ button#virg{
     grid-row: 6;
     grid-column: 3;
 }
+footer a:visited {
+    color: white;
+}
